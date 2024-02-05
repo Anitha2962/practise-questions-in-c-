@@ -1,0 +1,14 @@
+D:\C# PROJECTS\practise questions\practise questions\bin\Debug\net8.0\practise questions.exe
+D:\C# PROJECTS\practise questions\practise questions\bin\Debug\net8.0\practise questions.deps.json
+D:\C# PROJECTS\practise questions\practise questions\bin\Debug\net8.0\practise questions.runtimeconfig.json
+D:\C# PROJECTS\practise questions\practise questions\bin\Debug\net8.0\practise questions.dll
+D:\C# PROJECTS\practise questions\practise questions\bin\Debug\net8.0\practise questions.pdb
+D:\C# PROJECTS\practise questions\practise questions\obj\Debug\net8.0\practise questions.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PROJECTS\practise questions\practise questions\obj\Debug\net8.0\practise questions.AssemblyInfoInputs.cache
+D:\C# PROJECTS\practise questions\practise questions\obj\Debug\net8.0\practise questions.AssemblyInfo.cs
+D:\C# PROJECTS\practise questions\practise questions\obj\Debug\net8.0\practise questions.csproj.CoreCompileInputs.cache
+D:\C# PROJECTS\practise questions\practise questions\obj\Debug\net8.0\practise questions.dll
+D:\C# PROJECTS\practise questions\practise questions\obj\Debug\net8.0\refint\practise questions.dll
+D:\C# PROJECTS\practise questions\practise questions\obj\Debug\net8.0\practise questions.pdb
+D:\C# PROJECTS\practise questions\practise questions\obj\Debug\net8.0\practise questions.genruntimeconfig.cache
+D:\C# PROJECTS\practise questions\practise questions\obj\Debug\net8.0\ref\practise questions.dll
